@@ -1,4 +1,4 @@
-#使用ChatGPY完成並理解
+#使用ChatGPT完成並理解
 def solve_maze(maze):
     def is_valid(x, y):
         return 0 <= x < rows and 0 <= y < cols and maze[x][y] == 0
